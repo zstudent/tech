@@ -1,5 +1,12 @@
 # tech
 
+
+## Videos
+
+https://drive.google.com/open?id=0B29M3sfdctitS3F1MEt0YkhFbm8
+
+## Home work tasks
+
 Stack class quiz:
 
 Home task:
