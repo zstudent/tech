@@ -1,5 +1,3 @@
-# tech
-
 
 ## Videos
 
