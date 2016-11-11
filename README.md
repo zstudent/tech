@@ -33,3 +33,8 @@ a.	If n < 10 return 1.
 
 b.	Otherwise, return 1 + the number of digits in n/10 (ignoring the fractional part).
 Implement this recursive algorithm in Python and test it using a main function that calls this with the values 15, 105, and 15105. (HINT: Remember that if n is an integer, n/10 will be an integer without the fractional part.)
+
+
+### Home task: 
+
+Merge sort, bubble sort.
