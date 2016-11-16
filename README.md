@@ -35,6 +35,22 @@ b.	Otherwise, return 1 + the number of digits in n/10 (ignoring the fractional p
 Implement this recursive algorithm in Python and test it using a main function that calls this with the values 15, 105, and 15105. (HINT: Remember that if n is an integer, n/10 will be an integer without the fractional part.)
 
 
-### Home task: 
+### Sorting: Home task: 
 
 Merge sort, bubble sort.
+
+### Maps: Home task:
+1.	Implement hash map using open addressing approach: when a new key collides, find next empty slot, and put it there.
+
+2.	Consider two sets of integers, S = {s1, s2, ..., sm} and T = {t1, t2, ..., tn}, m ≤ n.
+
+  a.	Implement an algorithm that uses a hash table to test whether S is a subset of T.
+
+  b.	What is the average running time of that algorithm?
+  
+###  Binary Search trees: Home task:
+
+1.	Write a function which returns the height of the tree.
+
+2.	A binary tree is said to be "balanced" if both of its subtrees are balanced and the height of its left subtree differs from the height of its right subtree by at most 1.  Write a function to determine whether a given binary tree is balanced.
+
