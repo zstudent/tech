@@ -48,9 +48,14 @@ Merge sort, bubble sort.
 
   b.	What is the average running time of that algorithm?
   
-###  Binary Search trees: Home task:
+###  Binary Trees: Home task:
 
 1.	Write a function which returns the height of the tree.
 
 2.	A binary tree is said to be "balanced" if both of its subtrees are balanced and the height of its left subtree differs from the height of its right subtree by at most 1.  Write a function to determine whether a given binary tree is balanced.
+
+###  Binary Search Trees: Home task:
+
+1.	Write a function that prints all the keys less than a given value k in a BST.
+2.	Write a function that determines whether a given binary tree is a binary search tree.
 
